@@ -1,4 +1,4 @@
-
+//A program that write a welcome message to a name given by the user
 namespace _100days_c_
 {
     internal class Program
