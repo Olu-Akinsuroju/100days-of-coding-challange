@@ -1,4 +1,5 @@
-﻿namespace _100days_c_
+
+namespace _100days_c_
 {
     internal class Program
     {
